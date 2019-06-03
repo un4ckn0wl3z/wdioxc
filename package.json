@@ -1,0 +1,19 @@
+{
+  "name": "wdioxc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "wdio"
+  },
+  "author": "Anuwat",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^6.1.4",
+    "selenium-standalone": "^6.15.3",
+    "wdio-dot-reporter": "0.0.10",
+    "wdio-mocha-framework": "^0.6.4",
+    "wdio-selenium-standalone-service": "0.0.12",
+    "webdriverio": "^4.13.2"
+  }
+}
