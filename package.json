@@ -9,7 +9,7 @@
   "author": "Anuwat",
   "license": "ISC",
   "devDependencies": {
-    "mocha": "^6.1.4",
+    "mocha": "^10.2.0",
     "selenium-standalone": "^6.15.3",
     "wdio-dot-reporter": "0.0.10",
     "wdio-mocha-framework": "^0.6.4",
